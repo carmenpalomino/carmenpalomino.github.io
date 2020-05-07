@@ -4,11 +4,11 @@
 
 ## Creación Multimedia Interactiva (Fac. Bellas artes)
 
-**Autor:** 
+**Autor: Carmen Mª Palomino Villaverde
 
-**Título:** 
+**Título: AHMAD. ¿Qué harías tú en mi lugar?
 
-**Resumen:**
+**Resumen:Se trata de un proyecto que desarrolla una historia ilustrada sobre un joven sirio que huye de la guerra civil atravesando diferentes países hasta alcanzar las costas españolas. De forma paralela, se pueden consultar noticias reales sobre la situación en Siria y el testimonio de algunos jóvenes que se convirtieron en refugiados como el protagonista. 
 
 **Licencia: (creative Commons)**
 
@@ -16,7 +16,7 @@
 ### Memoria del proyecto:
 
 
-Hola
+
 
 
 
