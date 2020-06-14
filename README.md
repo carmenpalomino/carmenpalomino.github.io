@@ -46,9 +46,9 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 En el Storyboard a continuación se explica la historia de los protagonistas (dos jóvenes migrantes sirios) que se cuenta a través de la secuencia de 12 ilustraciones digitales incluyendo la portada de la misma que funciona como menú del proyecto. A cada ilustración se enlaza una imagen real del conflicto como se observa en el mapa de navegación que veremos en el siguiente punto. 
 
-![storyboard1]https://github.com/carmenpalomino/carmenpalomino.github.io/blob/master/storyboard1.jpg
+![storyboard1](https://github.com/carmenpalomino/carmenpalomino.github.io/blob/master/storyboard1.jpg)
 
-![storyboard2]https://github.com/carmenpalomino/carmenpalomino.github.io/blob/master/storyboard2.jpg
+![storyboard2](https://github.com/carmenpalomino/carmenpalomino.github.io/blob/master/storyboard2.jpg)
 
 
 
@@ -58,7 +58,7 @@ En el Storyboard a continuación se explica la historia de los protagonistas (do
 
 
 
-![sitemap]https://github.com/carmenpalomino/carmenpalomino.github.io/blob/master/sitemap.jpg
+![sitemap](https://github.com/carmenpalomino/carmenpalomino.github.io/blob/master/sitemap.jpg)
 
 
 
